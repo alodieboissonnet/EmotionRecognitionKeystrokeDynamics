@@ -9,3 +9,5 @@ The contributions of this work are the following:
 - We investigate whether demographic information on participants helps improve performance, and find that some of them are beneficial for our task. The others should be filtered out thanks to feature selection methods.
 
 Details about this work can be found in my report, available in this GitHub repository.
+
+The *EmoSurv* dataset in available on IEEE website and must be used according to the license granted by its authors: https://ieee-dataport.org/open-access/emosurv-typing-biometric-keystroke-dynamics-dataset-emotion-labels-created-using
